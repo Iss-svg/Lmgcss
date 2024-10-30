@@ -1,0 +1,25 @@
+.lmp { 
+ color: blueviolet;
+}
+.mn {
+    font: size 100px;;
+}
+
+.bgazur {
+    background-color: aqua;
+}
+.bouton {
+    background-color: rgb(10, 175, 200); 
+    font-size: 20px;
+    color: aliceblue;
+    border-radius: 5px;
+    text-decoration: none; /*cert a decorer le texte*/
+    padding: 10px 60px;/* Marge interieur du bloc*/
+    border: solid;/* gestion de la bordure: epeseur */
+    border-color: rgb(150, 8, 179);
+    border-width: 4px;
+}
+.textecenter {
+    text-align: center;/* center le texte*/
+
+}
